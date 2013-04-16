@@ -3,9 +3,9 @@
 ###***Translator Comments***
 This is an English version of [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang), which original version was written by [AstaXie](https://github.com/astaxie) and translated by [Unknown](https://github.com/Unknwon).
 
-This book is about how to build web applications in Go, author will have quick review of basic knowledge about Go in first few chapters, but you are supposed to understand what is Go and what is a web application before you start reading. Just a nice warning, if you are completed new guy in programming, this is not the first book you should read. 
+This book is about how to build web applications in Go. In the first few chapters of the book, the author will review some basic knowledge about Go. However, for an optimal reading experience, you should have a basic understanding of the Go language and the concept of a web application. If you are completely new to programming, this book is not intended to provide sufficient introductory material to get started.
 
-If there is anything unclear, feel free to ask me to rewrite a better translation.
+If anything is unclear due to wording or language issues, feel free to ask me to write a better translation.
 
 ###Translation Progress
 4.1. [Process form inputs](eBook/04.1.md)
@@ -16,7 +16,7 @@ If there is anything unclear, feel free to ask me to rewrite a better translatio
 - [sbinet](https://github.com/sbinet)
 
 ###Purpose
-Because I'm interested in web application development, I used my free time to write this book as open source version. It doesn't mean that I have very good ability to build web applications; I would like to share what I've done with Go in building web applications.
+Because I'm interested in web application development, I used my free time to write this book as open source version. It doesn't mean that I have a very good ability to build web applications; I would like to share what I've done with Go in building web applications.
 
 - For those of you who are working with PHP/Python/Ruby, you will understand how to use Go to build a web application.
 - For those of you who are working with C/C++, you will know how the web works.

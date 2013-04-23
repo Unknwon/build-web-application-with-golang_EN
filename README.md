@@ -19,8 +19,8 @@ If anything is unclear due to wording or language issues, feel free to ask me to
 ###Purpose
 Because I'm interested in web application development, I used my free time to write this book as open source version. It doesn't mean that I have a very good ability to build web applications; I would like to share what I've done with Go in building web applications.
 
-- For those of you who are working with PHP/Python/Ruby, you will understand how to use Go to build a web application.
-- For those of you who are working with C/C++, you will know how the web works.
+- For those of you who are working with PHP/Python/Ruby, you will learn how to build a web application with Go.
+- For those of you who are working with C/C++, you will learn how the web works.
 
 I believe the purpose of studying is sharing with others. The happiest thing in my life is sharing everything I've known with more people.
 
@@ -34,15 +34,16 @@ If you know what is QQ, join the group 259316004. If not, follow this [link](htt
 First, I have to thanks to people who are the members of Golang-China in QQ group 102319854, they are all very nice and helpful. Then, I need to thanks to following people who give great help when I was writing this book.
 
  - [四月份平民 April Citizen](https://plus.google.com/110445767383269817959) (review code)
- - [Hong Ruiqi](https://github.com/hongruiqi) (review code)
- - [BianJiang](https://github.com/border) (write the chapter about setting golang development tools, which are Vim and Emacs)
- - [Oling Cat](https://github.com/OlingCat)(review code)
- - [Wenlei Wu](mailto:spadesacn@gmail.com)(provide some pictures)
- - [polaris](https://github.com/polaris1119)(review whole book)
- - [雨痕 Rain Trail](https://github.com/qyuhen)(review chapter 2)
+ - [洪瑞琦 Hong Ruiqi](https://github.com/hongruiqi) (review code)
+ - [边  疆 BianJiang](https://github.com/border) (write the configurations about Vim and Emacs for Go development)
+ - [欧林猫 Oling Cat](https://github.com/OlingCat)(review code)
+ - [吴文磊 Wenlei Wu](mailto:spadesacn@gmail.com)(provide some pictures)
+ - [北极星 Polaris](https://github.com/polaris1119)(review whole book)
+ - [雨  痕 Rain Trail](https://github.com/qyuhen)(review chapter 2 and 3)
 
 ###License
-This book is licensed under the [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/), unless otherwise specified.
+This book is licensed under the [CC BY-SA 3.0 License](http://creativecommons.org/licenses/by-sa/3.0/),
+the code is licensed under a [BSD 3-Clause License](<https://github.com/astaxie/build-web-application-with-golang/blob/master/LICENSE.md>), unless otherwise specified.
 
-###Start reading
-[Directory](./eBook/preface.md)
+###Get Started
+[Index](./eBook/preface.md)

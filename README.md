@@ -1,14 +1,17 @@
 ***Build Web Application with Golang***
 =======================================
 ###***Translator Comments***
-This is an English version of [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang), which original version was written by [AstaXie](https://github.com/astaxie) and translated by [Unknown](https://github.com/Unknwon).
+This is an English version of [《Go Web编程》](https://github.com/astaxie/build-web-application-with-golang), which original version was written by [AstaXie](https://github.com/astaxie) and translated by [Unknown](https://github.com/Unknwon) and [LarryBattle](https://github.com/LarryBattle).
 
 This book is about how to build web applications in Go. In the first few chapters of the book, the author will review some basic knowledge about Go. However, for an optimal reading experience, you should have a basic understanding of the Go language and the concept of a web application. If you are completely new to programming, this book is not intended to provide sufficient introductory material to get started.
 
 If anything is unclear due to wording or language issues, feel free to ask me to write a better translation.
 
 ###Translation Progress
-8.5. [Summary](eBook/08.5.md)
+9.1 [Summary](eBook/09.1.md)
+
+### Todo
+- Review translationg for chapter 9 - 14
 
 ###Acknowledgments for translation help
 - [matalangilbert](https://github.com/matalangilbert)
